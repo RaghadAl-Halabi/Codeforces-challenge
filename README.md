@@ -25,6 +25,9 @@ The final dataset that contains the following features:
 problem name, its class, tutorial code difficulty, general concepts in tutorial code, problem difficulty, problem tags, and its solving times on codeforces as well as, student name, his previous solved problems counts, along with their classes, and the y value which represents his code difficulty
 
 ## The used tools:
+
 **Programming language:** Python
+
 **Coding environment:** Jupyter Notebook and Colab
+
 **Libraries:** Numpy, Pandas, html, requests, BeautifulSoup, re
